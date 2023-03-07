@@ -1,2 +1,2 @@
 # Stego-Project
-## This project is based on Python Programming Language
+## This project is based on Python Programming Language.
